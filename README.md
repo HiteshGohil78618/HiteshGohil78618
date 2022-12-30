@@ -1,4 +1,4 @@
-![logo](https://github.com/HiteshGohil78618/HiteshGohil78618/blob/main/profile%20banner.jpg)
+![logo](https://github.com/HiteshGohil78618/HiteshGohil78618/blob/main/PicsArt_12-30-12.40.25.png)
 <h1 align="center">Hi 👋, I'm Hitesh Gohil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
